@@ -9,7 +9,7 @@ Reads the version of your app from the target build settings.
 If you are using [cordova-cli](https://github.com/apache/cordova-cli), install
 with:
 
-    cordova plugin add https://github.com/whiteoctober/plugin-app-getname.git
+    cordova plugin add https://github.com/xuandac/plugin-app-getname.git
 
 ### With plugman
 
